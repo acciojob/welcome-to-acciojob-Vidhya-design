@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+body {
+      margin: 0;
+      padding: 20px;
+      font-family: "Times New Roman", Times, serif, monospace;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 2em;
+      font-weight: bold;
+    }
